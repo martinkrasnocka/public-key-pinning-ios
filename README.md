@@ -77,7 +77,7 @@ See PublicKeyPinning sample project for reference.
 
 ## License
 
-[LocsUtil](https://github.com/martinkrasnocka/LocsUtil) is protected under the [MIT license](http://www.opensource.org/licenses/mit-license.php)
+[public-key-pinning-ios](https://github.com/martinkrasnocka/public-key-pinning-ios) is protected under the [MIT license](http://www.opensource.org/licenses/mit-license.php)
 
 Copyright 2020 Martin Krasnočka
 
